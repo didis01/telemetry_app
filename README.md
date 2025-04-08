@@ -1,2 +1,2 @@
-# telemetry_app
+# Telemetry_app
 Telemetry viewer for my model rocket
