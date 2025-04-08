@@ -15,11 +15,11 @@ def on_draw():
 # load resources to use for Widgets:
 ####################################
 
-unpressed = pyglet.resource.image('elements/button_unpressed.png')
-pressed = pyglet.resource.image('elements/button_pressed.png')
-hover = pyglet.resource.image('elements/button_hover.png')
-bar = pyglet.resource.image('elements/bar.png')
-knob = pyglet.resource.image('elements/knob.png')
+unpressed = pyglet.resource.image('button_unpressed.png')
+pressed = pyglet.resource.image('button_pressed.png')
+hover = pyglet.resource.image('button_hover.png')
+bar = pyglet.resource.image('bar.png')
+knob = pyglet.resource.image('knob.png')
 
 
 ######################################
